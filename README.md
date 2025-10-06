@@ -1,0 +1,1 @@
+A simple student management project using the Java Server page(JSP), MySql, HTML and CSS . it include a signup login and a forget-password page. If the user log in it takes to the dashboard where the data will be displayed, where the user can update data and reset password. When the admin user log in , they can view all the user and perform delete operation.
